@@ -13,6 +13,7 @@ Console.WriteLine("1 - Calcular el area del cuadrado");
 Console.WriteLine("2 - Calcular el volumen del cubo");
 Console.WriteLine("3 - Salir");
 Console.WriteLine("4 - Sumar");
+Console.WriteLine("5 - Restar");
 
 // Guardamos la variable
 option = Convert.ToInt32(Console.ReadLine());
