@@ -3,12 +3,17 @@
 // Declaramos nuestras variables
 int option=0;
 Double result=0;
-
-
+//prueba
+//prueba
+//prueba
+//prueba
+//prueba
 // Dibujamos el menú para que el usuario pueda ver que opciones tiene.
 Console.WriteLine("1 - Calcular el area del cuadrado");
 Console.WriteLine("2 - Calcular el volumen del cubo");
 Console.WriteLine("3 - Salir");
+Console.WriteLine("4 - Sumar");
+
 // Guardamos la variable
 option = Convert.ToInt32(Console.ReadLine());
 
